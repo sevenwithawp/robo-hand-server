@@ -1,0 +1,12 @@
+{
+  "name": "robo-hand-server",
+  "version": "1.0.0",
+  "description": "Server for handling request for checkers game moves",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
